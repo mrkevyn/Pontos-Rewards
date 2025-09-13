@@ -22,4 +22,5 @@ Baixe o msedgedriver.exe compatível com a versão do seu Edge e ajuste o caminh
 EDGE_DRIVER_PATH = r"C:\Users\SeuUsuario\Documents\msedgedriver.exe"
 Execute o script:
 
+Execute o script:
 python pesquisa.py
